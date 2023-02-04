@@ -1,0 +1,99 @@
+body * {
+  font-family: "Open Sans" !important;
+}
+
+.head1 {
+  background-color: #001e5a;
+  height: 82px;
+}
+
+.head2 {
+  background-color: #003c82;
+  height: 40px;
+}
+
+.bod1 {
+  background-color: #d9d9d9;
+  height: 300px;
+}
+
+.bod2 {
+  background-color: #d2d2d2;
+  height: 689px;
+}
+
+.bod2a {
+  padding: 50px 40px;
+}
+
+button.headb {
+  color: #fff;
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+button.headb.login {
+  background-color: #ff7d00;
+}
+
+button.headb.daftar {
+  background-color: #999999;
+}
+
+/* .navbar {
+  min-height: 40px;
+} */
+ul.navbar-nav > li {
+  margin-right:110px;
+}
+
+li > a.link.active {
+  color: #faa324;
+}
+
+li > a.link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+li.box {
+  background-color: #faa324;
+  padding: 0 15px;
+}
+
+li > a.link.box {
+  color: #000;
+  
+}
+
+.white {
+  color: white;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+.mid > img {
+  height: 200px;
+  width: 384px;
+}
+
+.stats img {
+  border-radius: 8px;
+  box-shadow: 2px 1px 7px;
+}
+
+.bodtext {
+  font-size: 17px;
+  color: #737373;
+  font-stretch: expanded;
+}
+
+.bodtext b {
+  color: #515151;
+  font-weight: 900;
+}

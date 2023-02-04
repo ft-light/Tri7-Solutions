@@ -1,0 +1,22 @@
+1. 2
+  - base on the diagram, the figures in the even cells make
+  a parallel lines on the figure in the middle cell, and the
+  figures in the odd cells make a perpendicular lines.
+
+2. 3
+  - from left to right of each row of the diagram, the figures
+  is increasing in size but not the shape.
+
+3. 3
+  - the third column of the diagram is the union/combination
+  of the first 2 without changing of position.
+
+4. 4
+  - I looked at it as separate columns, the line is not moving (constant),
+  the circle is moving from top to bottom with changing of color every
+  movement, and the square is moving to its top to bottom while skipping its
+  orginal position with changing of color every movement.
+
+5. 3
+  - base on the first 2 rows, the black circle is going up and
+  the square is going right without changing the color of the shapes
